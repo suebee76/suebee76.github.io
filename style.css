@@ -19,7 +19,7 @@ body {
   width: 100%;
   top: 0;
   left: 0;
-  background: rgba(0, 0, 0, 0.65);
+  background: rgba(0, 0, 0, 0);
   color: white;
   display: flex;
   /*align-items: center;*/
@@ -30,14 +30,14 @@ body {
 .overlay h1 {
   font-size: 65px;
   margin: 0 0 5px;
-  padding-left: 20px;
+  padding-left: 15px;
 }
 
 .overlay p {
   margin: 0;
   font-size: 28px;
   padding-top: 10px;
-  padding-left: 20px;
+  padding-left: 15px;
 }
 
 /*#vids {*/
